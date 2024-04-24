@@ -106,6 +106,9 @@ button {
 .button1 {
     background-color: forestgreen;
     color: #eee;
+    font-weight: 600;
+    font-size: 1rem;
+    border: solid 1px black;
 }
 .button1:hover {
     background-color: black;
